@@ -1,0 +1,3 @@
+Q1. What Is Computer?
+
+Ans:-  computer is a machine that accepts information (in the form of digitised  data) and processed it in accordance with a programme, piece of software, or set of instruction that specify how the information should be handled.

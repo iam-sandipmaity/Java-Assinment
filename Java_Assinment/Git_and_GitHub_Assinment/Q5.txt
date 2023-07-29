@@ -1,0 +1,5 @@
+Q5. Different Type Of Version Control System?
+
+ans:- Version Control System Are two types -
+		1> Centralized Version Control System 
+		2> Decentralized Version Control System 

@@ -1,0 +1,5 @@
+Q1. What is Programming language?
+
+ans:- A programming language is a computer language that is used by programmers (developers) to communicate with computers. It is a set of instructions written in any specific language ( C, C++, Java, Python) to perform a specific task.
+
+A programming language is mainly used to develop desktop applications, websites, and mobile applications.

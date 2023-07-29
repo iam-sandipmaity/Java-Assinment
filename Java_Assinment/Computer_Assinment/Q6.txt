@@ -1,0 +1,3 @@
+Q6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+
+Ans:- The input device that allows a user to move the cursor or pointer on the screen is the MOUSE.

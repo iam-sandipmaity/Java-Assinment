@@ -1,0 +1,56 @@
+Q7. Explain about Increment and Decrement oparetors and give an examples.
+
+ans:- 
+1) Increment Operators: The increment operator is used to increment the value of a variable in an expression. 
+
+	Pre Increment Operators:-	
+			In the Pre-Increment(++variable), the value is first incremented and then used inside the expression.
+
+	Post Increment Operators:-	
+			Whereas in the Post-Increment(variable++), the value is first used inside the expression and then incremented.
+
+Example:- 
+
+	class Operator {
+    		public static void main(String[] args) {
+       	int var1 = 5, var2 = 5;
+
+        	// 5 is displayed
+        	// Then, var1 is increased to 6.
+        	System.out.println(var1++);
+
+        	// var2 is increased to 6
+        	// Then, var2 is displayed
+        	System.out.println(++var2);
+    }
+
+ output :- 5
+	     6
+
+
+2) Decrement Operators: The decrement operator is used to decrement the value of a variable in an expression. 
+
+	Pre decrement Operators:-	
+			In the Pre-Decrement(--variable), the value is first decremented and then used inside the expression. 
+
+	Pre decrement Operators:-	
+			Whereas in the Post-Decrement(variable--), the value is first used inside the expression and then decremented. 
+
+
+Example:- 
+
+	class Operator {
+    		public static void main(String[] args) {
+       	int var1 = 5, var2 = 5;
+
+        	// 5 is displayed
+        	// Then, var1 is decreased to 4.
+        	System.out.println(var1--);
+
+        	// var2 is decreased to 4
+        	// Then, var2 is displayed
+        	System.out.println(--var2);
+    }
+
+ output :- 5
+	     4

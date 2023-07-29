@@ -1,0 +1,5 @@
+Q3. How To tell git about your name and gmail?
+
+ans:- TO tell git about our name and Gmail, just we need to write some commend.
+		1. name :- git config --global user.name "Sandip Maity"
+		2. email:- git config --global user.email "163sandipmaity@gmail.com"

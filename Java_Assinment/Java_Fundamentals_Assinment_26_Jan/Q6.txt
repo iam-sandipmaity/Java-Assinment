@@ -1,0 +1,17 @@
+Q6. Explain about the main() method in java?
+
+ans:- The syntax of the main method is always:
+
+public static void main(String[] args){
+	// some code
+}
+
+# PUBLIC :- It is the access specifier.We need to make it public otherwise JVM can't access the main function at the time of completion.
+
+# STATIC :- When the Java program starts, there is no object of the class present. The main method has to be static so that the JVM can load the class into memory and call the main method without creating an instance of the class first.
+
+# VOID : - In Java, every method has the return type. void keyword acknowledges the compiler that the main() mathod does not return any value.
+
+# main() :- The Java main method is always named main. When a Java program starts, it always looks for the main method.
+
+# Strings[] args :- The main() method also accepts some data from the user. It accepts a group of strings, which is called a string array. It is used to hold the command line arguments in the form of string values.

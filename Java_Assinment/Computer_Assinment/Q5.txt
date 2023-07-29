@@ -1,0 +1,8 @@
+Q5. What Are The Output Devices?
+
+ans:- The Output Devices of the Computer Are -
+				1. Monitor
+				2. Printer
+ 				3. Speaker
+				4. projector 
+				5. headphones and etc....

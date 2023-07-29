@@ -1,0 +1,5 @@
+Q7. What Is a Git repository?
+
+ans:- A Git repository tracks and saves the history of all changes made to the files in a Git project. It saves this data in a directory called .git, also known as the repository folder.
+
+Git uses a version control system to track all changes made to the project and save them in the repository. Users can then delete or copy existing repositories or create new ones for ongoing projects.

@@ -1,0 +1,3 @@
+Q2. How to initialize a new Git repository ?
+
+ans:- To initialize a new git repository just open a folder in git bash and then commend on it "git init". By this method we can initialize a new git repository.

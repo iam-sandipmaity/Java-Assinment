@@ -1,0 +1,7 @@
+Q4. How to add a file to the staging area?
+
+ans:- To add a file to the staging area we just need -
+			1. open a folder in git bash
+			2. git init (To initialise the repository)
+			3. git add <filename> (to add only the mentioned file towards staging area)
+			3. git add . (to add all the file belong to the folder moving towards staging area)

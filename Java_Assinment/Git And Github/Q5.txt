@@ -1,0 +1,4 @@
+Q5. How to remove a file from the staging area?
+
+ans:- TO remove a file from the staging area just need to command as-
+			* git rm --cached <file-name>

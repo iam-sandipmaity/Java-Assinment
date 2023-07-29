@@ -1,0 +1,8 @@
+Q1. What is Statically typed and Dynamically typed Programming Language?
+
+ans:- All the programming language are divided in two form in the basis of Data type Declaration -
+	1. Statically typed Programming Language:- 
+				If the memory of the variable is given during the completion time itself then such type of programming Language are called as "Statically Typed Programming Language".
+
+	2. Dynamically typed Programming Language:-
+				If the memory of the variable is given during the execution time itself then such types of programming language are called as "Dynamically typed programming language".

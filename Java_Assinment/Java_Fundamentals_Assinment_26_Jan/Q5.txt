@@ -1,0 +1,5 @@
+Q5. What is a class?
+
+ans:- A class in Java is a logical template to create objects that share common properties and methods. Hence, all objects in a given class will have the same methods or properties. 
+	
+	For example: in the real world, a specific cat is an object of the “cats” class.

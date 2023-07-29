@@ -1,0 +1,10 @@
+Q5. What are the identifiers in Java?
+
+ans:-  Identifiers in Java are a sequence of characters to identify something in a program. They are names given to a class, variable, package, method, or interface and allow the programmer to refer to the specific item from any place in the program.
+ 
+	So the identifier are -
+		1. class
+		2. variable
+		3. function/ method
+		4. package
+	All identifies must have different names.

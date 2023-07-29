@@ -1,0 +1,12 @@
+Q8. What are Input Devices?
+
+Ans:- Some input Devices are - 
+
+			1. Keyboard.
+			2. Mouse.
+			3. Joy Stick.
+			4. Light pen.
+			5. Track Ball.
+			6. Scanner.
+			7. Graphic Tablet.
+			8. Microphone.

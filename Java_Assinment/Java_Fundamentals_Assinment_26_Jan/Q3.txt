@@ -1,0 +1,8 @@
+Q3. what are the features of Java?
+
+ans:- Java Programming language features are-
+		
+		1. Object Oriented Programming Language
+		2. Java is an Platform independent Programming Language
+		3. java Is an simple & secure programming Language
+		4. Java is a Open source programming language

@@ -1,0 +1,4 @@
+Q6. How to make a commit?
+
+ans:- The files which are ready for commit should be in stage area, to perform commit operation we use the following command 
+		syntax: git commit -m <some-messages>

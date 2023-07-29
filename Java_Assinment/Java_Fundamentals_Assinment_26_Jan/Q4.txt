@@ -1,0 +1,8 @@
+Q4. What Is an Object?
+
+ans:- An object is an entity with state and behaviour, such as a chair, bike, marker, pen, table, or car. It could be intellectual or physical (tangible and intangible). 
+	
+		> An object is a real world entity
+		> An object is a runtime entity
+		> The object is an instance of a class
+		> The object is an entity which has state and behaviour

@@ -1,0 +1,8 @@
+Q2. What is the variable in java?
+
+ans:- Variable in Java is a data container that stores the data values during Java program execution. Every variable is assigned data type which designates the type and quantity of value it can hold. Variable is a memory location name of the data. 
+
+	The Java variables have mainly three types : 
+		1. Local variable
+		2. Instance variable
+		3. Static variable

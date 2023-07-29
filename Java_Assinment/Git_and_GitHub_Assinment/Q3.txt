@@ -1,0 +1,3 @@
+Q3. What Is GitHub?
+
+ans:- GitHub is a Git Server Which is also a repository. It is used to store/maintain the source code of project. It is the largest source code of the project.

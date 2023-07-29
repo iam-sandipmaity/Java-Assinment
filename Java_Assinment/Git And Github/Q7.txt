@@ -1,0 +1,3 @@
+Q7. How to send your changes to a remote repository?
+
+ans:- By the "git push" command we send our changes to a remote repository.

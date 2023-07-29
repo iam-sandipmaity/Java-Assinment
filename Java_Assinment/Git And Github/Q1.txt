@@ -1,0 +1,5 @@
+Q1. How To Check If git is available on your system?
+
+ans:- To Check if the git is available to our computer process is -
+		1. we need to open first our computer terminal 
+		2. then type "git version" and verify Git Was installed or not...

@@ -1,0 +1,3 @@
+Q2. What is RAM?
+
+Ans:- RAM(Random-access memory) is a volatile memory.This means that memory is kept in RAM while the computer is running, but it is erased when the machine is powerd off. The operating Systemand other files are frequently loaded from an HDD or SSD into RAM While The Computer Is restarted.

@@ -1,0 +1,15 @@
+Q3. How to assign a value to variable?
+
+ans:- 
+1. The first time a variable is assigned a value, it is said to be initialised.
+ 
+2.The "=" symbol is known as the assignment operator. It is also possible to declare a variable and assign it a value in the same line.
+
+Example:-  so instead of
+				 int i;
+		and then     i = 9;
+ 
+		you can write 
+				int i = 9;
+		  
+		all in one go.

@@ -1,0 +1,5 @@
+Q8. What is difference between clone and pull?
+
+ans:- 
+git clone:- If we want to get the project from a remote app, we use clone then complete branch list and source code will come.
+git pull:- It is used to get latest soutce code and new branch details, merge source code into working directory.

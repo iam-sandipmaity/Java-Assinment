@@ -1,0 +1,3 @@
+Q2. What Do You Understand by the term 'Version Control System'?
+
+ans:- Version control — also known as source control or revision control — is an important software development practice for tracking and managing changes made to code and other files. It is closely related to source code management.
